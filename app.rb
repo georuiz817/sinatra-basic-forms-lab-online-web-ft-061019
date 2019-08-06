@@ -9,5 +9,7 @@ get "/new" do
   erb :create_puppy
 end
 
+post "/puppy" do 
+  
 
 end
