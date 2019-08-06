@@ -1,5 +1,5 @@
 class Puppy 
-attr_accessor :puppy#months_ol, :name 
+attr_accessor :months_old, :name 
 attr_reader :breed 
   
   
