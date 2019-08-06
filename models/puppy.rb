@@ -1,5 +1,5 @@
 class Puppy 
-attr_accessor :age, :name 
+attr_accessor :puppy#, :name 
 attr_reader :breed 
   
   
